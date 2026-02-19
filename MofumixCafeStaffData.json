@@ -1,16 +1,16 @@
-[
-  {
+{
+  "staff1": {
     "name": "[1] Local Player",
     "role": "staff"
   },
 
-  {
+  "staff2": {
     "name": "Zenji ' x",
     "role": "staff"
   },
 
-  {
+  "staff3": {
     "name": "Kayaba༒Akihiko",
     "role": "staff"
   }
-]
+}
