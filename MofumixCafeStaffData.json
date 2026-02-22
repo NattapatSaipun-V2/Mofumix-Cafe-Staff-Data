@@ -1,21 +1,25 @@
 {
   "staff1": {
     "name": "[1] Local Player",
-    "role": "Staff"
+    "role": "Staff",
+    "hybrideRole": "Nature"
   },
 
   "staff2": {
     "name": "Zenji ' x",
-    "role": "Staff"
+    "role": "Staff",
+    "hybrideRole": "Legendary/Dragon"
   },
 
   "staff3": {
     "name": "Kayaba༒Akihiko",
-    "role": "Staff"
+    "role": "Staff",
+    "hybrideRole": "Kajiu/Titan"
   },
 
   "staff4": {
     "name": "Dummy01",
-    "role": "Staff"
+    "role": "Staff",
+    "hybrideRole": "Nature"
   }
 }
