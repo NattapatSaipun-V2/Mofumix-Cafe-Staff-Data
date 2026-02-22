@@ -12,5 +12,10 @@
   "staff3": {
     "name": "Kayaba༒Akihiko",
     "role": "Staff"
+  },
+
+  staff4": {
+    "name": "Dummy01",
+    "role": "Staff"
   }
 }
