@@ -25,7 +25,7 @@
 
   "staff5": {
     "name": "AkariZa",
-    "role": "Staff",
+    "role": "Partner",
     "hybrideRole": "Legendary/Dragon"
   },
 
@@ -204,6 +204,12 @@
   },
 
   "staff35": {
+    "name": "Roberto Baggio",
+    "role": "Sweet latte",
+    "hybrideRole": "Legendary/Dragon"
+  },
+
+  "staff36": {
     "name": "[1] Local Player",
     "role": "Partner",
     "hybrideRole": "Legendary/Dragon"
